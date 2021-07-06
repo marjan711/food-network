@@ -1,0 +1,163 @@
+body{
+    font-family: 'Source Sans Pro', sans-serif;;
+    margin: 0;
+}
+
+.half width h1{
+    font-size:40px;
+    font-weight:bold;
+    line-height: 18px;
+    
+}
+h1 p{
+    line-height: 25px;
+}
+
+h1 span{
+    color:#ff8c00;
+}
+
+.flexiblity{
+    display: flex;
+    margin-bottom: 80px;
+}
+
+.half-width{
+    width:50%;
+    padding-left: 200px;
+    padding-top:100px;
+    
+}
+
+.half-width img{
+    width:100%;
+   
+    
+}
+
+.intro-pic{
+    padding-right:150px;
+    margin-top: -60px;
+}
+
+
+
+.order-button{
+    text-decoration: none;
+    padding: 10px 30px;
+    background-image: linear-gradient(salmon,tomato);
+    border-radius: 5px;
+    color: aliceblue;
+    font-weight: 700;
+}
+
+
+.about-me{
+    background-image:url(images/7.png);
+    background-repeat: no-repeat;
+    width: 90%;
+    margin: auto;;
+    
+}
+
+.aboutme-pic{
+    width: 20%;
+}
+
+#about-madison{
+    margin-top: 100px;
+}
+
+.contact-me-btn{
+    text-decoration: none;
+    padding: 10px 30px;
+    background-image: linear-gradient(salmon,tomato);
+    border-radius: 5px;
+    color: aliceblue;
+    font-weight: 700;
+   
+}
+
+
+.my-recipies{
+    text-align: center;
+    width: 80%;
+    margin: auto;
+}
+
+.recipie-cards{
+    width: 33%;
+    background-color: lightslategray;
+    border-radius: 5px;
+    box-shadow: 10px 10px 20px gray ;
+    
+    
+}
+
+.card-image img{
+    width: 80%;
+    box-shadow: 10px 10px 50px gray ;
+    border-radius: 5px;
+    margin:50px;
+    
+    
+}
+
+.title{
+    text-align: center;
+}
+.info{
+    text-align: center;
+}
+
+.main{
+    display: flex;
+    width: 90%;
+    margin-top: 35px;
+    overflow: hidden;
+}
+
+.one-third{
+    width: 30%;
+    padding-left: 80px;
+    padding-right: 30px;
+}
+
+.clients-feedback{
+    text-align:center;
+    font-size: 50px;
+    
+}
+
+.client-sec{
+    margin-top:80px;
+    margin-bottom:60px;
+}
+
+.social-sec{
+    width: 80%;
+    margin: auto;
+    
+    
+}
+.one-third{
+   text-align: center;
+   
+}
+
+footer{
+    width:100%;
+    height:150px;
+    background-color:black;
+    text-align: center;
+    margin-top: 50px;
+
+}
+
+footer h1{
+    color: gray;
+    padding-top: 10px;
+}
+footer p{
+    color: white;
+}
